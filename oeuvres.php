@@ -9,7 +9,7 @@ $oeuvres = [
 'description complete' => 'Mia Tozerski est une artiste peintre ukrainienne réfugiée de la guerre. Sur cette œuvre, Dodomu ("domicile" en ukrainien), elle nous montre la tristesse du peuple ukrainien qu\'elle partage, ayant elle-même dû quitter son foyer. L_\'œuvre évoque le drapeau liquéfié d\'une Ukraine en souffrance, pleurant la mort de ses compatriotes. Ce travail chargé d\'émotion est le symbole d\'un événement qui marquera l\'Histoire. Cette peinture à l\'acrylique rayonne grâce à son fond lisse et ses mélanges de couleurs éclatantes.',
 ],
 
-['id' => '2',
+['id' => 2,
 'image' => 'img/pawel-czerwinski-3.png',
 'alt' => 'Aashaaheen Baadal',
 'titre' => 'Aashaaheen Baadal',
@@ -18,7 +18,7 @@ $oeuvres = [
 
 ],
 
-['id'=>'3',
+['id'=> 3,
 'image' => 'img/dan-cristian-padure.png',
 'alt' => 'Nightlife Traffic',
 'titre' => 'Nightlife Traffic',
@@ -28,7 +28,7 @@ $oeuvres = [
 
 ],
 
-[ 'id' => '4',
+[ 'id' => 4,
 'image' => 'img/steve-johnson-5.png',
 'alt' => 'Le refuge de l\'Havre',
 'titre' => 'Le refuge de l\'Havre',
@@ -38,7 +38,7 @@ $oeuvres = [
 
 ],
 
-[ 'id' => '5',
+[ 'id' => 5,
 'image' => 'img/steve-johnson.png',
 'alt'=> 'Red Washover',
 'titre' => 'Red Washover',
@@ -48,7 +48,7 @@ $oeuvres = [
 
 ],
 
-[ 'id' => '6',
+[ 'id' => 6,
 'image' => 'img/pawel-czerwinski.png',
 'alt'=> 'Chromatics',
 'titre' => 'Chromatics',
@@ -57,7 +57,7 @@ $oeuvres = [
 
 ],
 
-[ 'id' => '7',
+[ 'id' => 7,
 'image' => 'img/jazmin-quaynor.png',
 'alt'=> 'Digital Negative',
 'titre' => 'Digital Negative',
@@ -66,7 +66,7 @@ $oeuvres = [
 
 ],
 
-['id' => '8',
+['id' => 8,
 'image' => 'img/steve-johnson-6.png',
 'alt'=> 'Blast from the past',
 'titre' => 'Blast from the past', 
@@ -75,7 +75,7 @@ $oeuvres = [
 
 ],
 
-['id' => '9',
+['id' => 9,
 'image' => 'img/victor-grabarczyk.png',
 'alt' => 'Hurricane',
 'titre' => 'Hurricane',
@@ -84,7 +84,7 @@ $oeuvres = [
 
 ],
 
-['id' => '10',
+['id' => 10,
 'image' => 'img/pawel-czerwinski-2.png',
 'alt' => 'La marée rouge',
 'titre' => 'La marée rouge',
@@ -93,7 +93,7 @@ $oeuvres = [
 
 ],
 
-['id' => '11',
+['id' => 11,
 'image' => 'img/steve-johnson-2.png',
 'alt' => 'Asimilacion',
 'titre' => 'Asimilacion',
@@ -102,7 +102,7 @@ $oeuvres = [
 
 ],
 
-['id' => '12',
+['id' => 12,
 'image' => 'img/fly-d.png',
 'alt' => 'La Galaxia Gialla',
 'titre' => 'La Galaxia Gialla',
@@ -110,7 +110,7 @@ $oeuvres = [
 'description complete' => ' Mauris maximus, orci sollicitudin ultrices elementum, tellus neque feugiat leo, quis lobortis purus neque vel lectus. Ut sagittis eros id lectus porttitor tincidunt. Donec scelerisque diam nec felis egestas, eget finibus ante porttitor. Sed malesuada sapien ut semper accumsan. Duis tristique dui vel egestas porttitor. Nunc tristique dapibus orci a amet.',
 ],
 
-['id' => '13',
+['id' => 13,
 'image' => 'img/orfeas-green.png',
 'alt' => 'Puffy Amalgamate',
 'titre' => 'Puffy Amalgamate',
@@ -119,7 +119,7 @@ $oeuvres = [
 
 ],
 
-['id' => '14',
+['id' => 14,
 'image' => 'img/steve-johnson-4.png',
 'alt' => 'Mirage',
 'titre' => 'Mirage',
@@ -128,7 +128,7 @@ $oeuvres = [
 
 ],
 
-['id' => '15',
+['id' => 15,
 'image' => 'img/steve-johnson-3.png',
 'alt' => 'Blaue Gelbe Muster',
 'titre' => 'Blaue Gelbe Muster',
